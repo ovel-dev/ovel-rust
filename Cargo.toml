@@ -2,5 +2,7 @@
 name = "ovel"
 version = "0.0.1"
 edition = "2024"
+description = "Intergrated fullstack framework"
+license = "MIT"
 
 [dependencies]
